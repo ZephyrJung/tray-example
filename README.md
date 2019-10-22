@@ -26,3 +26,6 @@ open out/Weathered-darwin-x64/Weathered.app
 ```
 
 ![screenshot](https://cloud.githubusercontent.com/assets/671378/15033544/97011f38-1220-11e6-9611-1571063fe107.png)
+
+https://xueqiu.com/stock/search.json?code=SZ002594&size=3&page=1
+
